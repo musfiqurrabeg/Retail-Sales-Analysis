@@ -74,7 +74,7 @@ We tackle **10 exciting business problems** to uncover hidden patterns and trend
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/your-username/retail-sales-analysis.git
+   git clone https://github.com/musfiqurrabeg/Retail-Sales-Analysis.git
    ```
 
 2. **Set Up the Database**:  
