@@ -122,7 +122,7 @@ Happy Analyzing! 🎉
 ---
 
 **Made with ❤️ by Musfiqur Rahman Abeg**  
-**Data Enthusiast | Retail Analyst | SQL & Python Wizard**
+**Data Science Enthusiast**
 
 ---
 
